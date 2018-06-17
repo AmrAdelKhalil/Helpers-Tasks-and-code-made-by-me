@@ -1,4 +1,4 @@
-# Helpers-Tasks-and-code-made-by-me
+# Helpers-Tasks-and-code-made-to-help
 This repository was made to add snippets of codes that may be interesting for me and other people.
 
 #How should you deal with the repo
